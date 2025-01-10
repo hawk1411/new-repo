@@ -1,3 +1,2 @@
-## welcome to git!
+## hello git!
 - i am adding this from feature branch
-- holla amigo
